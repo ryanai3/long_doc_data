@@ -1,0 +1,74 @@
+[![](/images/logo_top.gif)](http://www.imsdb.com "The Internet Movie Script
+Database") |
+
+# The Internet Movie Script Database (IMSDb)
+
+| [![](/images/logo_middle.gif)](http://www.imsdb.com "The Internet Movie
+Script Database") |  [![](/images/logo_bottom.gif)](http://www.imsdb.com "The
+Internet Movie Script Database")  
+The web's largest  
+movie script resource! |  
+  
+---|---  
+  
+
+| Search IMSDb |
+
+  
+| Alphabetical  | [#](/alphabetical/0) | [A](/alphabetical/A) |
+[B](/alphabetical/B) | [C](/alphabetical/C) | [D](/alphabetical/D) |
+[E](/alphabetical/E) | [F](/alphabetical/F) | [G](/alphabetical/G) |
+[H](/alphabetical/H) | [I](/alphabetical/I) | [J](/alphabetical/J) |
+[K](/alphabetical/K) | [L](/alphabetical/L) | [M](/alphabetical/M) |
+[N](/alphabetical/N) | [O](/alphabetical/O) | [P](/alphabetical/P) |
+[Q](/alphabetical/Q) | [R](/alphabetical/R) | [S](/alphabetical/S) |
+[T](/alphabetical/T) | [U](/alphabetical/U) | [V](/alphabetical/V) |
+[W](/alphabetical/W) | [X](/alphabetical/X) | [Y](/alphabetical/Y) |
+[Z](/alphabetical/Z)  
+| Genre  | [Action](/genre/Action) | [Adventure](/genre/Adventure) |
+[Animation](/genre/Animation) | [Comedy](/genre/Comedy) |
+[Crime](/genre/Crime) | [Drama](/genre/Drama) | [Family](/genre/Family) |
+[Fantasy](/genre/Fantasy) | [Film-Noir](/genre/Film-Noir) |
+[Horror](/genre/Horror) | [Musical](/genre/Musical) |
+[Mystery](/genre/Mystery) | [Romance](/genre/Romance) | [Sci-Fi](/genre/Sci-
+Fi) | [Short](/genre/Short) | [Thriller](/genre/Thriller) | [War](/genre/War)
+| [Western](/genre/Western)  
+| Sponsor |
+
+  
+| TV Transcripts  | [Futurama](/TV/Futurama.html) |
+[Seinfeld](/TV/Seinfeld.html) | [South Park](/TV/South Park.html) | [Stargate
+SG-1](/TV/Stargate SG1.html) | [Lost](/TV/Lost.html) | [The 4400](/TV/The
+4400.html)  
+| International  | [French scripts](/language/French)  
+| Movie Software  | [![DVD ripper software offer](/images/a/dvd-
+ripper.jpg)](/out/dvd-ripper) | [Rip from DVD](/software/rip-from-dvd) | [Rip
+Blu-Ray](/software/rip-blu-ray)  
+| Latest Comments  | [Star Wars: Revenge of the Sith| 10/10 | [Star Wars: The
+Force Awakens| 10/10 | [Batman Begins| 9/10 | [Collateral| 10/10 | [Jackie
+Brown| 8/10  
+| Movie Chat  |  
+Message |  ![](http://www.yellbox.com/images/smiley.gif) | Yell !  
+  
+[ALL SCRIPTS](http://www.imsdb.com/all%20scripts)  
+  
+|  |  
+|
+
+    
+    
+        
+  
+
+function firewhenready() { if (typeof postscribe != 'undefined') {
+postscribe('#leaderboard', '<scr'+'ipt type="text/javascript"> e9 = new
+Object();e9.size = "728x90,468x60";</scr'+'ipt><scr'+'ipt
+src="http://tags.expo9.exponential.com/tags/IMSDb/ROS/tags.js"></scr'+'ipt>');
+//postscribe('#skyscraper', '<scr'+'ipt type="text/javascript">e9 = new
+Object();e9.size = "160x600,120x600";</scr'+'ipt><scr'+'ipt
+src="http://tags.expo9.exponential.com/tags/IMSDb/ROS/tags.js"></scr'+'ipt>');
+postscribe('#rectangle', '<scr'+'ipt type="text/javascript">e9 = new
+Object();e9.size = "300x250";</scr'+'ipt><scr'+'ipt
+src="http://tags.expo9.exponential.com/tags/IMSDb/ROS/tags.js"></scr'+'ipt>');
+} else setTimeout(firewhenready, 100); }
+
